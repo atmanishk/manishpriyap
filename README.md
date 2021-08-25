@@ -10,6 +10,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: 📱 +917870860208 🕸️: expy.bio/manishpriyap
-- 😄 Pronouns: ...
+- 📫 How to reach me: 📱 +917870860208 
+                      🕸️: https://www.expy.bio/manishpriyap
+<!-- - 😄 Pronouns:  -->
 - ⚡ Fun fact: I am scared of lizards. 🤐
