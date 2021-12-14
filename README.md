@@ -93,7 +93,7 @@
 
 <!-- </details> -->
 
-[website]: https://manishpriyap.github.com
+[website]: https://manishpriyap.github.io
 <!-- [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
